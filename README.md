@@ -12,5 +12,5 @@ To record material covered during Scientific Computing (SIG) meetings
   - I have uploaded this file to this repository 'GeorgeRichardson_slides_28Sep17'.
 
 19Oct17: Hacknight at CBRE Dev
-  - Maelle gave a tutorial https://github.com/ellezv/tutorial_sumy/
-  - Sai gave a intro on 'xarray' (https://github.com/PuPPy-Python/Scientific_Computing/tree/master/HackNight_19Oct17/xarrayTutorial_SaiNudurupati)
+  - Maelle gave a tutorial 'Make me read less!' (https://github.com/ellezv/tutorial_sumy/)
+  - Sai gave an intro on 'xarray' (https://github.com/PuPPy-Python/Scientific_Computing/tree/master/HackNight_19Oct17/xarrayTutorial_SaiNudurupati)
