@@ -14,3 +14,14 @@ To record material covered during Scientific Computing (SIG) meetings
 19Oct17: Hacknight at CBRE Dev
   - Maelle gave a tutorial 'Make me read less!' (https://github.com/ellezv/tutorial_sumy/)
   - Sai gave an intro on 'xarray' (https://github.com/PuPPy-Python/Scientific_Computing/tree/master/HackNight_19Oct17/xarrayTutorial_SaiNudurupati)
+
+14Dec17: Hacknight at CBRE Dev
+  
+
+18Jan18: Talks at Moz
+  - Speaker: Dr. Paul Simonson (Dept. of Pathology, University of Washington)
+      topic: Towards Quantitative Pathology
+      
+  - Speaker: Kurt Maurer
+      topic: Why Bubble Sort Is Pretty Okay
+      
