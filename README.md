@@ -25,3 +25,7 @@ To record material covered during Scientific Computing (SIG) meetings
   - Speaker: Kurt Maurer
       topic: Why Bubble Sort Is Pretty Okay
       
+
+15Feb18: Talk at Galvanize (Gasworks classroom - 3rd floor)
+   - Speaker: Jimmy Phoung (PhD student, Department of Biomedical and Health Informatics, University of Washington)
+        topic:  'Epidemiology, information science, water, scenario-based design, and procedure-oriented programming'
