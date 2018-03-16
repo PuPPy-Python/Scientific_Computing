@@ -29,3 +29,12 @@ To record material covered during Scientific Computing (SIG) meetings
 15Feb18: Talk at Galvanize (Gasworks classroom - 3rd floor)
    - Speaker: Jimmy Phoung (PhD student, Department of Biomedical and Health Informatics, University of Washington)
         topic:  'Epidemiology, information science, water, scenario-based design, and procedure-oriented programming'
+
+15Mar18: Hacknight at CBRE Dev   (9 attendees; 27 RSVPs)
+    - discussion about possibly forming a Kaggle group
+    
+    - Speaker: James (CBRE Dev)
+        - title: Intro to data engineering final project (github page: jmateg0)
+        
+    - Speaker: Quentin (CBRE Dev) - quentincaudron.com
+        - title: demonstration of counting your customers code
