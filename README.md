@@ -31,7 +31,6 @@ To record material covered during Scientific Computing (SIG) meetings
         topic:  'Epidemiology, information science, water, scenario-based design, and procedure-oriented programming'
 
 15Mar18: Hacknight at CBRE Dev   (9 attendees - 27 RSVPs)
-    
    - discussion about possibly forming a Kaggle group
    - Speaker: James (CBRE Dev)
         - title: Intro to data engineering final project (github page: jmateg0) 
