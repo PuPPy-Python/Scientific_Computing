@@ -3,22 +3,23 @@ To record material covered during Scientific Computing (SIG) meetings
 
 
 ## 07Sep17: Meetup at CBRE Dev (5th Ave, Seattle)
-  - Quentin Caudron gave a talk on 'Bio-inspired computing'
+  - Speaker: Quentin Caudron (CBRE Dev)
+      - title: 'Bio-inspired computing'
       - I have forked his repository into PuPPY-Python (https://github.com/PuPPy-Python/bio-inspired-computing)
 
 
 ## 28Sep17: Meetup at CBRE Dev
-  - George Richardson gave a talk on the topic:
-    'Data Science and NLP for Humanitarian and Social Impact Work'
+  - Speaker: George Richardson
+      - title: 'Data Science and NLP for Humanitarian and Social Impact Work'
       - I have uploaded this file to this repository as 'GeorgeRichardson_slides_28Sep17'.
 
 
 ## 19Oct17: Hacknight at CBRE Dev
-  - Speaker: Maelle 
+  - Speaker: Maelle Vance (Ookla)
        - tutorial: 'Make me read less!' 
        - talk material @ https://github.com/ellezv/tutorial_sumy/
   
-  - Speaker: Sai S. Nudurupati 
+  - Speaker: Sai S. Nudurupati (PhD student, Dept. of Civil & Environmental Engineering, University of Washington)
        - intro to package: 'xarray' 
        - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/tree/master/HackNight_19Oct17/xarrayTutorial_SaiNudurupati
 
@@ -42,19 +43,19 @@ To record material covered during Scientific Computing (SIG) meetings
 ## 15Mar18: Hacknight at CBRE Dev   (9 attendees - 27 RSVPs)
    - discussion about possibly forming a Kaggle group
 
-   - Speaker: James (CBRE Dev)
+   - Speaker: James Mategko (CBRE Dev)
         - title: Intro to data engineering final project (github page: jmateg0) 
 
-   - Speaker: Quentin (CBRE Dev) - quentincaudron.com
+   - Speaker: Quentin Caudron (CBRE Dev) - quentincaudron.com
         - title: demonstration of counting your customers code
 
 
 ## 19Apr18: Talks at Galvanize (Discovery classroom - 2nd floor)
-   - Speaker: Dylan Albrecht
+   - Speaker: Dylan Albrecht (CDK Global)
         - title: 'A Machine Learning Vignette — Data Exploration to Production'.
         - talk material @ https://github.com/nonabelian/talk_april_2018-puppy
         
-   - Speaker: Alando Ballantyne
+   - Speaker: Alando Ballantyne (Sovereign Finance)
         - title: Shared technical details on 'Crop acreage and clusters over any given aoi'
         - talk material @
              - https://github.com/alando46/california_ag/blob/master/all_preprocessing.ipynb
