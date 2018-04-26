@@ -36,3 +36,16 @@ To record material covered during Scientific Computing (SIG) meetings
         - title: Intro to data engineering final project (github page: jmateg0) 
    - Speaker: Quentin (CBRE Dev) - quentincaudron.com
         - title: demonstration of counting your customers code
+
+19Apr18: Talks at Galvanize (Discovery classroom - 2nd floor)
+   - Speaker: Dylan Albrecht
+        - title: 'A Machine Learning Vignette — Data Exploration to Production'.
+        - talk material:  https://github.com/nonabelian/talk_april_2018-puppy
+        
+   - Speaker: Alando Ballantyne
+        - title: Shared technical details on 'Crop acreage and clusters over any given aoi'
+        - talk material:
+             - https://github.com/alando46/california_ag/blob/master/all_preprocessing.ipynb
+             - https://github.com/alando46/california_ag/blob/master/find_plots_identify_crops.ipynb
+        - to learn more, look up https://sovereign.finance/
+        - Alando's blog: https://alan.do/
