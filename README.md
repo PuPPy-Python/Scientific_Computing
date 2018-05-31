@@ -62,3 +62,10 @@ To record material covered during Scientific Computing (SIG) meetings
              - https://github.com/alando46/california_ag/blob/master/find_plots_identify_crops.ipynb
         - to learn more, look up https://sovereign.finance/
         - Alando's blog: https://alan.do/
+## 17May18: Talks at CBRE Dev
+   - Speaker: Bryce Kalmbach and Peter Whidden (University of Washington)
+        - title: 'KBMod: a new algorithm designed to search astronomical images for moving objects'
+        - talk material @ https://gist.github.com/jbkalmbach/663c5b06b7e8f895f29c08a30e742fee
+   
+   - Speaker: Abhishek Varma (Taunt)
+   - talk material @ https://docs.google.com/presentation/d/13TRA8sRuUolcZxclX04DKJakgduZcUABDn4hbiiN_gY/edit?usp=sharing
