@@ -1,7 +1,7 @@
 # Scientific_Computing
 We are a Special Interest Group (SIG) of Puget Sound Programming Python meetup (PuPPy - https://www.meetup.com/PSPPython/). We tentatively meet every Third-Thursday. Our meetings are informal, where speakers present/demonstrate on a topic. We emphasize lively discussions after each talk/demonstration. Our goal is to teach and learn from others.
 
-PuPPy-Python's Code Of Conduct (CoC) applies to our meetups. If you face an issue, please report to either a Scientific Computing's organizer (Sai or Kurt) or any of the PuPPy's organizers. Please be nice to each other and have fun.
+PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, please report to either a Scientific_Computing meetup's organizer (Sai or Kurt) or any of the PuPPy's organizers. Please be nice to each other and have fun.
 
 You can find information on previous talks (and material) below:
 
