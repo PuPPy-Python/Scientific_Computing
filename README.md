@@ -68,4 +68,4 @@ To record material covered during Scientific Computing (SIG) meetings
         - talk material @ https://gist.github.com/jbkalmbach/663c5b06b7e8f895f29c08a30e742fee
    
    - Speaker: Abhishek Varma (Taunt)
-   - talk material @ https://docs.google.com/presentation/d/13TRA8sRuUolcZxclX04DKJakgduZcUABDn4hbiiN_gY/edit?usp=sharing
+        - talk material @ https://docs.google.com/presentation/d/13TRA8sRuUolcZxclX04DKJakgduZcUABDn4hbiiN_gY/edit?usp=sharing
