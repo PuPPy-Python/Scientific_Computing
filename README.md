@@ -73,3 +73,10 @@ You can find information on previous talks (and material) below:
    
    - Speaker: Abhishek Varma (Taunt)
         - talk material @ https://docs.google.com/presentation/d/13TRA8sRuUolcZxclX04DKJakgduZcUABDn4hbiiN_gY/edit?usp=sharing
+## 21Jun18: Talks at CBRE Dev
+   - Speaker: Amanda Manaster (University of Washington)
+        - title: 'Creating a road erosion model using Landlab'
+
+   - Speaker: Josh Paik (University of St. Andrews)
+        - title: 'Image Masking and Cell Segmentation'
+        - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/
