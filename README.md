@@ -1,5 +1,9 @@
 # Scientific_Computing
-To record material covered during Scientific Computing (SIG) meetings
+We are a Special Interest Group (SIG) of Puget Sound Programming Python meetup (PuPPy - https://www.meetup.com/PSPPython/). We tentatively meet every Third-Thursday. Our meetings are informal, where speakers present/demonstrate on a topic. We emphasize lively discussions after each talk/demonstration. Our goal is to teach and learn from others.
+
+PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, please report to either a Scientific_Computing meetup's organizer (Sai or Kurt) or any of the PuPPy's organizers. Please be nice to each other and have fun.
+
+You can find information on previous talks (and material) below:
 
 
 ## 07Sep17: Meetup at CBRE Dev (5th Ave, Seattle)
@@ -62,3 +66,10 @@ To record material covered during Scientific Computing (SIG) meetings
              - https://github.com/alando46/california_ag/blob/master/find_plots_identify_crops.ipynb
         - to learn more, look up https://sovereign.finance/
         - Alando's blog: https://alan.do/
+## 17May18: Talks at CBRE Dev
+   - Speaker: Bryce Kalmbach and Peter Whidden (University of Washington)
+        - title: 'KBMod: a new algorithm designed to search astronomical images for moving objects'
+        - talk material @ https://gist.github.com/jbkalmbach/663c5b06b7e8f895f29c08a30e742fee
+   
+   - Speaker: Abhishek Varma (Taunt)
+        - talk material @ https://docs.google.com/presentation/d/13TRA8sRuUolcZxclX04DKJakgduZcUABDn4hbiiN_gY/edit?usp=sharing
