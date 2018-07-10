@@ -66,6 +66,8 @@ You can find information on previous talks (and material) below:
              - https://github.com/alando46/california_ag/blob/master/find_plots_identify_crops.ipynb
         - to learn more, look up https://sovereign.finance/
         - Alando's blog: https://alan.do/
+
+
 ## 17May18: Talks at CBRE Dev
    - Speaker: Bryce Kalmbach and Peter Whidden (University of Washington)
         - title: 'KBMod: a new algorithm designed to search astronomical images for moving objects'
@@ -73,3 +75,12 @@ You can find information on previous talks (and material) below:
    
    - Speaker: Abhishek Varma (Taunt)
         - talk material @ https://docs.google.com/presentation/d/13TRA8sRuUolcZxclX04DKJakgduZcUABDn4hbiiN_gY/edit?usp=sharing
+
+
+## 21Jun18: Talks at CBRE Dev
+   - Speaker: Amanda Manaster (University of Washington)
+        - title: 'Creating a road erosion model using Landlab'
+
+   - Speaker: Josh Paik (University of St. Andrews)
+        - title: 'Image Masking and Cell Segmentation'
+        - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/talk_materials
