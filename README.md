@@ -84,3 +84,23 @@ You can find information on previous talks (and material) below:
    - Speaker: Josh Paik (University of St. Andrews)
         - title: 'Image Masking and Cell Segmentation'
         - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/talk_materials
+        
+
+## 19Jul18: Talks at CBRE Dev
+   - Speaker: Brad Chamberlain (Cray Inc.)
+        - title: 'Chapel: Programmability, Parallelism, and Performance'
+        - talk material @ https://chapel-lang.org/presentations/ChapelForPuPPy-presented.pdf
+
+   - Speaker: Allison Pfeiffer (University of Washington)
+        - title: 'Harnessing USGS online databases to understand continent scale trends in gravel rivers'
+        - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/AllisonPfeiffer_19Jul18.pdf
+   
+ 
+## 16Aug18: Talks at CBRE Dev
+   - Speaker: Sebastian Alvis (University of Washington)
+        - title: 'Nuclear Physics Computing: Using ROOT to Speed Up Data Analysis'
+        - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/SebastianAlvis_16Aug18.pdf
+
+   - Speaker: Anamol Pundle (University of Washington)
+        - title: 'Can traffic sensor data detect vehicle cruising?'
+        - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/AnamolPundle_16Aug18.pdf
