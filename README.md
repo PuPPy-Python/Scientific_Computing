@@ -5,7 +5,14 @@ PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, plea
 
 You can find information on previous talks (and material) below:
 
-## 16Aug18: Talks at CBRE Dev
+## 20Sep18: Talks at CBRE Dev
+   - Speaker: Yu Cheng (Ph.D., University of Miami)
+        - title: 'Quantifying Agulhas leakage in a coupled climate model'
+        - talk material @ https://drive.google.com/file/d/1uaZztYrSCPRRuXdn7HrY3T49k6GjV2hT/view
+
+
+
+## 16Aug18: Talks at Galvanize
    - Speaker: Sebastian Alvis (University of Washington)
         - title: 'Nuclear Physics Computing: Using ROOT to Speed Up Data Analysis'
         - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/SebastianAlvis_16Aug18.pdf
