@@ -8,7 +8,7 @@ You can find information on previous talks (and material) below:
 ## 20Sep18: Talks at CBRE Dev
    - Speaker: Yu Cheng (Ph.D., University of Miami)
         - title: 'Quantifying Agulhas leakage in a coupled climate model'
-        - talk material @ https://drive.google.com/file/d/1uaZztYrSCPRRuXdn7HrY3T49k6GjV2hT/view
+        - talk material  @ https://drive.google.com/file/d/1uaZztYrSCPRRuXdn7HrY3T49k6GjV2hT/view
 
 
 
