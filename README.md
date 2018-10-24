@@ -1,9 +1,22 @@
 # Scientific_Computing
 We are a Special Interest Group (SIG) of Puget Sound Programming Python meetup (PuPPy - https://www.meetup.com/PSPPython/). We tentatively meet every Third-Thursday. Our meetings are informal, where speakers present/demonstrate on a topic. We emphasize lively discussions after each talk/demonstration. Our goal is to teach and learn from others.
 
-PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, please report to either a Scientific_Computing meetup's organizer (Sai or Kurt) or any of the PuPPy's organizers. Please be nice to each other and have fun.
+**Organizers of this SIG:**<br>
+Sai Nudurupati (meetup profile: https://www.meetup.com/members/189071684/); <br>
+Kurt Maurer (meetup profile: https://www.meetup.com/PSPPython/members/186155114/); and <br>
+Amanda Manaster (meetup profile: https://www.meetup.com/PSPPython/members/256934194/). <br>
+
+PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, please report to either a Scientific_Computing meetup's organizer (Sai, Kurt, and Amanda) or any of the PuPPy's organizers. Please be nice to each other and have fun.
 
 You can find information on previous talks (and material) below:
+
+
+## 18Oct18: Talks at CBRE Dev
+   - Speaker: David Coons (Oregon State University, Alumni of University of Michigan)
+        - title: 'Unfolding 4-Dimensional Cubes'
+        - talk material  @ https://docs.google.com/presentation/d/1bWLg36JCaQ1VUvnppBJaZ_He3CHdo6ZhHqKFyPqamHo/edit
+
+
 
 ## 20Sep18: Talks at CBRE Dev
    - Speaker: Yu Cheng (Ph.D., University of Miami)
