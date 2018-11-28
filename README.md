@@ -8,7 +8,8 @@ Amanda Manaster (meetup profile: https://www.meetup.com/PSPPython/members/256934
 
 PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, please report to either a Scientific_Computing meetup's organizer (Sai, Kurt, and Amanda) or any of the PuPPy's organizers. Please be nice to each other and have fun.
 
-You can find information on previous talks (and material) below:
+
+**You can find information on previous talks (and material) below:**
 
 ## 15Nov18: Talks at Galvanize
    - Speaker: Brendan Herger
