@@ -14,7 +14,7 @@ You can find information on previous talks (and material) below:
    - Speaker: Brendan Herger
         - title: 'Modeling for fraud & class imbalance'
         - talk material  @ https://github.com/bjherger/public-talks/tree/master/meetups/2018-11-15-fraud
-  
+        
   - Speaker: Meredith Fore (Ph.D. student, University of Washington)
         - title: 'Quantum Monte Carlo: Rolling the dice but the dice are molecules'
         - talk material  @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/MeredithFore_PuPPy_15Nov2018.pdf
