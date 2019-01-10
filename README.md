@@ -11,6 +11,13 @@ PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, plea
 
 **You can find information on previous talks (and material) below:**
 
+## 11Dec18: Talk at CBRE Dev
+   - Speaker: Quentin Caudron (Senior Data Scientist at CBRE)
+        - title: 'Genetic algorithms for antenna optimisation'
+        - talk material  @ https://gist.github.com/QCaudron/4e8bd8795bc50c5b459fed2fda551ea2
+
+
+
 ## 15Nov18: Talks at Galvanize
    - Speaker: Brendan Herger
         - title: 'Modeling for fraud & class imbalance'
