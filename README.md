@@ -11,6 +11,18 @@ PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, plea
 
 **You can find information on previous talks (and material) below:**
 
+## 15Jan19: Talks at CBRE Dev
+   - Speaker: Ryan Currier (Ph.D. candidate, University of Washington)
+        - title: 'Quantifying and modeling sub-grid scale variability of snow in multiple climates throughout the western United States'
+        - talk material  @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/RyanCurrier_slides_17Jan19.pdf
+        
+   - Speaker: Diana Gergel (Ph.D. candidate, University of Washington)<br>
+        - title: 'Leveraging scalable Python-based geoscience tools
+to analyze land surface climate in the Arctic'<br>
+        - talk material  @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/DianaGergel_slides_17Jan19.pptx
+		               and https://github.com/dgergel/scientific_computing_20190117
+
+
 ## 11Dec18: Talk at CBRE Dev
    - Speaker: Quentin Caudron (Senior Data Scientist at CBRE)
         - title: 'Genetic algorithms for antenna optimisation'
