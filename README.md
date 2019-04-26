@@ -17,17 +17,17 @@ We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python me
 ### 25Apr19: Talks at CBRE Dev
    - Speaker: Jared Anderson (Data Scientist)
         - title: 'Prouster: Using Deep Learning to overcome writer's block'
-        - talk material  @ 
+         
         
    - Speaker: Sebastian Alvis 
         - title: 'League of Legends Item Balancing'
-        - talk material  @ 
+        - talk material  @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/SebastianAlvis_slides_25Apr19.pdf
 
 
 ### 21Mar19: Talk at CBRE Dev
    - Speaker: Nic Wayand (Research Scientist at Amazon)
         - title: 'A Year-Round Subseasonal-To-Seasonal Sea Ice Prediction Portal (Powered by Pangeo!)'
-        - talk material  @ 
+         
 
 
 ### 21Feb19: Talk at CBRE Dev
