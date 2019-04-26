@@ -1,25 +1,41 @@
 # Scientific_Computing
 We are a Special Interest Group (SIG) of Puget Sound Programming Python meetup (PuPPy - https://www.meetup.com/PSPPython/). We tentatively meet every Third-Thursday. Our meetings are informal, where speakers present/demonstrate on a topic. We emphasize lively discussions after each talk/demonstration. Our goal is to teach and learn from others.
 
-**Organizers of this SIG:**<br>
-Sai Nudurupati (meetup profile: https://www.meetup.com/members/189071684/); <br>
-Kurt Maurer (meetup profile: https://www.meetup.com/PSPPython/members/186155114/); and <br>
-Amanda Manaster (meetup profile: https://www.meetup.com/PSPPython/members/256934194/). <br>
+##Organizers of this SIG:<br>
+**Sai S. Nudurupati** (meetup profile: https://www.meetup.com/members/189071684/); <br>
+**Kurt Maurer** (meetup profile: https://www.meetup.com/PSPPython/members/186155114/); and <br>
+**Amanda Manaster** (meetup profile: https://www.meetup.com/PSPPython/members/256934194/). <br>
 
-PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, please report to either a Scientific_Computing meetup's organizer (Sai, Kurt, and Amanda) or any of the PuPPy's organizers. Please be nice to each other and have fun.
-
-
-**You can find information on previous talks (and material) below:**
+**PuPPy's Code Of Conduct (CoC - https://www.pspython.com/pages/code-of-conduct/)**  applies to our meetups. If you face an issue, please report to either a Scientific_Computing meetup's organizer (Sai, Kurt, and Amanda) or any of the PuPPy's organizers. Please be nice to each other and have fun.
 
 
-## 21Feb19: Talk at CBRE Dev
+## Information about previous talks and material are listed below:
+
+
+### 25Apr19: Talks at CBRE Dev
+   - Speaker: Jared Anderson (Data Scientist)
+        - title: 'Prouster: Using Deep Learning to overcome writer's block'
+        - talk material  @ 
+        
+   - Speaker: Sebastian Alvis 
+        - title: 'League of Legends Item Balancing'
+        - talk material  @ 
+
+
+### 21Mar19: Talk at CBRE Dev
+   - Speaker: Nic Wayand (Research Scientist at Amazon)
+        - title: 'A Year-Round Subseasonal-To-Seasonal Sea Ice Prediction Portal (Powered by Pangeo!)'
+        - talk material  @ 
+
+
+### 21Feb19: Talk at CBRE Dev
    - Speaker: Dr. Donald B. Kinghorn (Scientific Computing adviser at Puget Systems)
         - title: 'Scientific Computing with PyTorch
 (How to use a machine learning framework for GPU accelerated general scientific programming)'
         - talk material  @ https://github.com/dbkinghorn/Sci-Py-PuPy-talk
 
 
-## 15Jan19: Talks at CBRE Dev
+### 15Jan19: Talks at CBRE Dev
    - Speaker: Ryan Currier (Ph.D. candidate, University of Washington)
         - title: 'Quantifying and modeling sub-grid scale variability of snow in multiple climates throughout the western United States'
         - talk material  @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/RyanCurrier_slides_17Jan19.pdf
@@ -31,14 +47,14 @@ to analyze land surface climate in the Arctic'<br>
 		               and https://github.com/dgergel/scientific_computing_20190117
 
 
-## 11Dec18: Talk at CBRE Dev
+### 11Dec18: Talk at CBRE Dev
    - Speaker: Quentin Caudron (Senior Data Scientist at CBRE)
         - title: 'Genetic algorithms for antenna optimisation'
         - talk material  @ https://gist.github.com/QCaudron/4e8bd8795bc50c5b459fed2fda551ea2
 
 
 
-## 15Nov18: Talks at Galvanize
+### 15Nov18: Talks at Galvanize
    - Speaker: Brendan Herger
         - title: 'Modeling for fraud & class imbalance'
         - talk material  @ https://github.com/bjherger/public-talks/tree/master/meetups/2018-11-15-fraud
@@ -49,21 +65,21 @@ to analyze land surface climate in the Arctic'<br>
 
 
 
-## 18Oct18: Talks at CBRE Dev
+### 18Oct18: Talks at CBRE Dev
    - Speaker: David Coons (Oregon State University, Alumni of University of Michigan)
         - title: 'Unfolding 4-Dimensional Cubes'
         - talk material  @ https://docs.google.com/presentation/d/1bWLg36JCaQ1VUvnppBJaZ_He3CHdo6ZhHqKFyPqamHo/edit
 
 
 
-## 20Sep18: Talks at CBRE Dev
+### 20Sep18: Talks at CBRE Dev
    - Speaker: Yu Cheng (Ph.D., University of Miami)
         - title: 'Quantifying Agulhas leakage in a coupled climate model'
         - talk material  @ https://drive.google.com/file/d/1uaZztYrSCPRRuXdn7HrY3T49k6GjV2hT/view
 
 
 
-## 16Aug18: Talks at Galvanize
+### 16Aug18: Talks at Galvanize
    - Speaker: Sebastian Alvis (University of Washington)
         - title: 'Nuclear Physics Computing: Using ROOT to Speed Up Data Analysis'
         - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/SebastianAlvis_16Aug18.pdf
@@ -74,7 +90,7 @@ to analyze land surface climate in the Arctic'<br>
 
 
 
-## 19Jul18: Talks at CBRE Dev
+### 19Jul18: Talks at CBRE Dev
    - Speaker: Brad Chamberlain (Cray Inc.)
         - title: 'Chapel: Programmability, Parallelism, and Performance'
         - talk material @ https://chapel-lang.org/presentations/ChapelForPuPPy-presented.pdf
@@ -85,7 +101,7 @@ to analyze land surface climate in the Arctic'<br>
 
 
 
-## 21Jun18: Talks at CBRE Dev
+### 21Jun18: Talks at CBRE Dev
    - Speaker: Amanda Manaster (University of Washington)
         - title: 'Creating a road erosion model using Landlab'
 
@@ -95,7 +111,7 @@ to analyze land surface climate in the Arctic'<br>
 
 
 
-## 17May18: Talks at CBRE Dev
+### 17May18: Talks at CBRE Dev
    - Speaker: Bryce Kalmbach and Peter Whidden (University of Washington)
         - title: 'KBMod: a new algorithm designed to search astronomical images for moving objects'
         - talk material @ https://gist.github.com/jbkalmbach/663c5b06b7e8f895f29c08a30e742fee
@@ -105,7 +121,7 @@ to analyze land surface climate in the Arctic'<br>
 
 
 
-## 19Apr18: Talks at Galvanize (Discovery classroom - 2nd floor)
+### 19Apr18: Talks at Galvanize (Discovery classroom - 2nd floor)
    - Speaker: Dylan Albrecht (CDK Global)
         - title: 'A Machine Learning Vignette — Data Exploration to Production'.
         - talk material @ https://github.com/nonabelian/talk_april_2018-puppy
@@ -120,7 +136,7 @@ to analyze land surface climate in the Arctic'<br>
 
 
 
-## 15Mar18: Hacknight at CBRE Dev   (9 attendees - 27 RSVPs)
+### 15Mar18: Hacknight at CBRE Dev   (9 attendees - 27 RSVPs)
    - discussion about possibly forming a Kaggle group
 
    - Speaker: James Mategko (CBRE Dev)
@@ -131,13 +147,13 @@ to analyze land surface climate in the Arctic'<br>
 
  
 
-## 15Feb18: Talk at Galvanize (Gasworks classroom - 3rd floor)
+### 15Feb18: Talk at Galvanize (Gasworks classroom - 3rd floor)
    - Speaker: Jimmy Phoung (PhD student, Department of Biomedical and Health Informatics, University of Washington)
         - title:  'Epidemiology, information science, water, scenario-based design, and procedure-oriented programming'
 
 
 
-## 18Jan18: Talks at Moz
+### 18Jan18: Talks at Moz
   - Speaker: Dr. Paul Simonson (Dept. of Pathology, University of Washington)
        - title: Towards Quantitative Pathology
       
@@ -146,11 +162,11 @@ to analyze land surface climate in the Arctic'<br>
 
 
 
-## 14Dec17: Hacknight at CBRE Dev
+### 14Dec17: Hacknight at CBRE Dev
 
 
 
-## 19Oct17: Hacknight at CBRE Dev
+### 19Oct17: Hacknight at CBRE Dev
   - Speaker: Maelle Vance (Ookla)
        - tutorial: 'Make me read less!' 
        - talk material @ https://github.com/ellezv/tutorial_sumy/
@@ -161,14 +177,14 @@ to analyze land surface climate in the Arctic'<br>
 
 
 
-## 28Sep17: Meetup at CBRE Dev
+### 28Sep17: Meetup at CBRE Dev
   - Speaker: George Richardson
       - title: 'Data Science and NLP for Humanitarian and Social Impact Work'
       - I have uploaded this file to this repository as 'GeorgeRichardson_slides_28Sep17'.
    
 
 
-## 07Sep17: Meetup at CBRE Dev (5th Ave, Seattle)
+### 07Sep17: Meetup at CBRE Dev (5th Ave, Seattle)
   - Speaker: Quentin Caudron (CBRE Dev)
       - title: 'Bio-inspired computing'
       - I have forked his repository into PuPPY-Python (https://github.com/PuPPy-Python/bio-inspired-computing)
