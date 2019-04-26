@@ -1,15 +1,17 @@
 # Scientific_Computing
-We are a Special Interest Group (SIG) of Puget Sound Programming Python meetup (PuPPy - https://www.meetup.com/PSPPython/). We tentatively meet every Third-Thursday. Our meetings are informal, where speakers present/demonstrate on a topic. We emphasize lively discussions after each talk/demonstration. Our goal is to teach and learn from others.
+We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python meetup** (PuPPy - https://www.meetup.com/PSPPython/). We tentatively meet every Third-Thursday. Our meetings are informal, where speakers present/demonstrate on a topic. We emphasize lively discussions after each talk/demonstration. Our goal is to teach and learn from others.
 
-##Organizers of this SIG:<br>
+
+## Organizers of this SIG:<br>
 **Sai S. Nudurupati** (meetup profile: https://www.meetup.com/members/189071684/); <br>
 **Kurt Maurer** (meetup profile: https://www.meetup.com/PSPPython/members/186155114/); and <br>
 **Amanda Manaster** (meetup profile: https://www.meetup.com/PSPPython/members/256934194/). <br>
 
+
 **PuPPy's Code Of Conduct (CoC - https://www.pspython.com/pages/code-of-conduct/)**  applies to our meetups. If you face an issue, please report to either a Scientific_Computing meetup's organizer (Sai, Kurt, and Amanda) or any of the PuPPy's organizers. Please be nice to each other and have fun.
 
 
-## Information about previous talks and material are listed below:
+## Find information on previous talks below:
 
 
 ### 25Apr19: Talks at CBRE Dev
