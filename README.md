@@ -11,6 +11,14 @@ PuPPy's Code Of Conduct (CoC) applies to our meetups. If you face an issue, plea
 
 **You can find information on previous talks (and material) below:**
 
+
+## 21Feb19: Talk at CBRE Dev
+   - Speaker: Dr. Donald B. Kinghorn (Scientific Computing adviser at Puget Systems)
+        - title: 'Scientific Computing with PyTorch
+(How to use a machine learning framework for GPU accelerated general scientific programming)'
+        - talk material  @ https://github.com/dbkinghorn/Sci-Py-PuPy-talk
+
+
 ## 15Jan19: Talks at CBRE Dev
    - Speaker: Ryan Currier (Ph.D. candidate, University of Washington)
         - title: 'Quantifying and modeling sub-grid scale variability of snow in multiple climates throughout the western United States'
