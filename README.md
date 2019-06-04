@@ -1,5 +1,5 @@
 # Scientific_Computing
-We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python meetup** (PuPPy - https://www.meetup.com/PSPPython/). We tentatively meet every Third-Thursday. Our meetings are informal, where speakers present/demonstrate on a topic. We emphasize lively discussions after each talk/demonstration. Our goal is to teach and learn from others.
+We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python meetup** (PuPPy - https://www.meetup.com/PSPPython/). We tentatively meet every Fourth-Thursday. Our meetings are informal, where speakers present/demonstrate on a topic. We emphasize lively discussions after each talk/demonstration. Our goal is to teach and learn from others.
 
 
 ## Organizers of this SIG:<br>
