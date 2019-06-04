@@ -14,6 +14,12 @@ We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python me
 ## Find information on previous talks below:
 
 
+### 23May19: Talk at CBRE Dev
+   - Speaker: Brendan Herger (Data Scientist, Convoy)
+        - title: 'Machine learning workflow in Pandas'
+	- talk material @ https://github.com/bjherger/public-talks/tree/master/meetups/2019-05-22-ML-workflows
+	
+
 ### 25Apr19: Talks at CBRE Dev
    - Speaker: Jared Anderson (Data Scientist)
         - title: 'Prouster: Using Deep Learning to overcome writer's block'
