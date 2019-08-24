@@ -14,6 +14,37 @@ We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python me
 ## Find information on previous talks below:
 
 
+### 22Aug19: Talks at CBRE Dev
+   - Speaker: David Kaspar (Data Scientist & Machine Learning Engineer)
+        - title: 'Optimal Clustering with HDBSCAN and a Customizable Metric'
+	- talk material:
+	     * slides - https://docs.google.com/presentation/d/1WbSdh5I7UJftSpWM4HqKWX0sM7-U6JexcG_PzWoyPMU/edit?usp=sharing
+	     * github - https://github.com/UpwardTrajectory/meander-maker#meander-maker
+	     * live deployment - https://meander.datakaspar.com
+         
+        
+   - Speaker: Sebastian Alvis (MS Physics, University of Washington)
+        - title: 'The Endless Quest for Excellent Data Quality: a Physics Programming Talk'
+        - talk material  @ XXXX Will be updated! XXXX
+
+
+### 25Jul19: Talks at CBRE Dev
+   - Speaker: Steven Pestana (Ph.D. Student, University of Washington)
+        - title: 'When will the snow melt? Infrared remote sensing over mountain forests and snow'
+	- talk material @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/StevenPestana_slides_26Jul19.pdf
+         
+        
+   - Speaker:  Jacob Deppen (Data Analyst, CBRE)
+        - title: 'Using Python to solve old problems in archaeology'
+        - talk material  @ XXXX Will be updated! XXXX
+
+
+### 27Jun19: Talk at CBRE Dev
+   - Speaker: Yifan Cheng (Ph.D. candidate, University of Washington)
+        - title: 'Better understanding human activities on river temperatures under climate change'
+	- talk material @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/YifanCheng_presentation_27Jun19.pdf
+	
+
 ### 23May19: Talk at CBRE Dev
    - Speaker: Brendan Herger (Data Scientist, Convoy)
         - title: 'Machine learning workflow in Pandas'
