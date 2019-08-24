@@ -17,10 +17,9 @@ We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python me
 ### 22Aug19: Talks at CBRE Dev
    - Speaker: David Kaspar (Data Scientist & Machine Learning Engineer)
         - title: 'Optimal Clustering with HDBSCAN and a Customizable Metric'
-	- talk material:
-	     - slides: https://docs.google.com/presentation/d/1WbSdh5I7UJftSpWM4HqKWX0sM7-U6JexcG_PzWoyPMU/edit?usp=sharing
-	     - github: https://github.com/UpwardTrajectory/meander-maker#meander-maker
-	     - live deployment: https://meander.datakaspar.com
+	- slides: https://docs.google.com/presentation/d/1WbSdh5I7UJftSpWM4HqKWX0sM7-U6JexcG_PzWoyPMU/edit?usp=sharing
+	- github: https://github.com/UpwardTrajectory/meander-maker#meander-maker
+	- live deployment: https://meander.datakaspar.com
          
         
    - Speaker: Sebastian Alvis (MS Physics, University of Washington)
