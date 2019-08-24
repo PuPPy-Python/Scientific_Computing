@@ -25,7 +25,7 @@ We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python me
         
    - Speaker: Sebastian Alvis (MS Physics, University of Washington)
         - title: 'The Endless Quest for Excellent Data Quality: a Physics Programming Talk'
-        - talk material  @ XXXX Will be updated! XXXX
+        - talk material  @ https://github.com/PuPPy-Python/Scientific_Computing/blob/master/talk_materials/SebastianAlvis_slides_22Aug19.pdf
 
 
 ### 25Jul19: Talks at CBRE Dev
