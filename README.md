@@ -15,6 +15,20 @@ We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python me
 ## Find information on previous talks below:
 
 
+### 26Sep19: Talks at CBRE Dev
+   - Speaker: Oriana Chegwidden (Staff Scientist and Graduate Student, University of Washington)
+     - title: 'Climate Change, Water, and Donald Rumsfeld in the Pacific Northwest'
+     - talk material:
+       - slides: 
+         
+        
+   - Speaker: Matt Drury (Data Scientist)
+        - title: 'Algorithmic Drafting for Magic: The Gathering'
+        - talk material:
+        - slides: https://docs.google.com/presentation/d/1UUuSR5V_BURDkGMWRGkFyOENRZCFzTyN6AZrq1zoncU/edit
+        - github: https://github.com/madrury/mtg-draftbot
+
+
 ### 22Aug19: Talks at CBRE Dev
    - Speaker: David Kaspar (Data Scientist & Machine Learning Engineer)
      - title: 'Optimal Clustering with HDBSCAN and a Customizable Metric'
