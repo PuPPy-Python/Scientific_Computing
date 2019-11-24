@@ -15,6 +15,24 @@ We are a **Special Interest Group (SIG)** of **Puget Sound Programming Python me
 ## Find information on previous talks below:
 
 
+### 21Nov19: Talks at CBRE Dev
+   - Speaker: Alan Vezina (co-founder and co-organizer of PuPPy and PyCascades)
+     - title: Flask - Getting Started
+     - talk material:
+
+
+### 24Oct19: Talks at CBRE Dev
+   - Speaker: Abhi Banerjee
+     - title: Introduction to Quantum Computing via IBM Qiskit
+     - material: A few quantum computing resources:
+                 https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY
+                 https://quantum-computing.ibm.com/
+		 https://qiskit.org/documentation/
+		 https://quantum-computing.ibm.com/support/guides/gate-overview?section=5d00d964853ef8003c6d6820#
+		 https://github.com/Qiskit
+		 https://hackernoon.com/a-brief-introduction-to-quantum-computing-d21e578cb7ed
+
+
 ### 26Sep19: Talks at CBRE Dev
    - Speaker: Oriana Chegwidden (Staff Scientist and Graduate Student, University of Washington)
      - title: 'Climate Change, Water, and Donald Rumsfeld in the Pacific Northwest'
